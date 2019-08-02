@@ -1,16 +1,9 @@
 
-#Cheat Format
+# Cheat Format
 
 <BODY>
 
 <FONT FACE="verdana" SIZE="2">
-
-<TABLE BORDER="0" WIDTH="100%" CELLSPACING="0" CELLPADDING="6">
-<TR>
-<TD BGCOLOR="#757575" WIDTH="90"><IMG SRC="images/misc.bmp"></TD>
-<TD BGCOLOR="#757575"><FONT COLOR="#FFFFFF" FACE="verdana" SIZE="4"><B>FB Alpha</B></FONT></TD>
-</TR>
-</TABLE>
 
 <H3><FONT COLOR="#F98733">Cheat Format</FONT></H3>
 
