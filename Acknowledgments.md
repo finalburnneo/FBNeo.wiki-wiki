@@ -1,19 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<HTML>
-<HEAD>
-<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
-<Title>Acknowledgments</Title>
-</HEAD>
-<BODY>
-
-<FONT FACE="verdana" SIZE="2">
-
-<TABLE BORDER="0" WIDTH="100%" CELLSPACING="0" CELLPADDING="6">
-<TR>
-<TD BGCOLOR="#757575" WIDTH="90"><IMG SRC="images/misc.bmp"></TD>
-<TD BGCOLOR="#757575"><FONT COLOR="#FFFFFF" FACE="verdana" SIZE="4"><B>FB Alpha</B></FONT></TD>
-</TR>
-</TABLE>
+# Acknowledgments
 
 <H3><FONT COLOR="#F98733">Acknowledgments</FONT></H3>
 
